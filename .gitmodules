@@ -1,0 +1,3 @@
+[submodule "spring-boot-service-user"]
+	path = spring-boot-service-user
+	url = https://github.com/BestSoftwareESPE/spring-boot-service-user.git
